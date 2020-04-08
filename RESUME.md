@@ -22,4 +22,4 @@
  
 ![Example - icons](/biblioteka_icons.png)
 
-![Example - site](/biblioteka_icons.png)
+![Example - site](/Снимок экрана 2020-04-08 в 21.35.06.png)
