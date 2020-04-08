@@ -20,5 +20,6 @@
   * telephone: 8033-63-65-171
   
  **Example of work**:
+ 
 ![Example - icons](/biblioteka_icons-min.png)
 
