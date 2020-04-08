@@ -19,7 +19,6 @@
   * gmail: zhenyarusak3@gmail.com
   * telephone: 8033-63-65-171
   
- 
+ **Example of work**:
 ![Example - icons](/biblioteka_icons-min.png)
 
-![Example - site](/Снимок экрана 2020-04-08 в 21.35.06-min.png)
